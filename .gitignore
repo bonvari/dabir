@@ -1,0 +1,26 @@
+# تنظیماتِ محلی — مسیرهای شخصیِ هر کاربر
+sw_config.json
+
+# دادهٔ نوشتن و بکاپ‌ها
+draft/
+scenes/
+backups/
+plot_backups/
+*.bak
+*.tmp
+
+# پایتون
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# سیستم‌عامل و ویرایشگر
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
